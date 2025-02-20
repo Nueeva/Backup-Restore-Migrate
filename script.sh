@@ -82,7 +82,7 @@ restore_pterodactyl() {
 }
 
 # Menu Utama
-echo -e "\n━━━━━━━━━━━━━━━━━━━━━━━\n📌 *BACKUP & RESTORE MENU*\n━━━━━━━━━━━━━━━━━━━━━━━"
+echo -e "\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n📌 BACKUP & RESTORE MENU\n━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "1️⃣ Backup VPS"
 echo "2️⃣ Restore VPS"
 echo "3️⃣ Backup Pterodactyl"
